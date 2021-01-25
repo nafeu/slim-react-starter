@@ -1,6 +1,6 @@
 # Slim React Starter
 
-CDN-based React development starter with Snowpack and Skypack
+CDN-based React development starter with Snowpack and Skypack, check out my [blog post](https://nafeu.medium.com/modern-react-development-but-without-200-mb-of-node-modules-69d8ca01eacf) on it.
 
 ## Usage
 
